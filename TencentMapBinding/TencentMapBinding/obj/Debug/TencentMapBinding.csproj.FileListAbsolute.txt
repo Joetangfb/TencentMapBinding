@@ -1,0 +1,5 @@
+c:\users\tangfubing.gdepb\documents\visual studio 2013\Projects\TencentMapBinding\TencentMapBinding\obj\Debug\TencentMapBinding.csprojResolveAssemblyReference.cache
+c:\users\tangfubing.gdepb\documents\visual studio 2013\Projects\TencentMapBinding\TencentMapBinding\bin\Debug\TencentMapBinding.dll
+c:\users\tangfubing.gdepb\documents\visual studio 2013\Projects\TencentMapBinding\TencentMapBinding\bin\Debug\TencentMapBinding.pdb
+c:\users\tangfubing.gdepb\documents\visual studio 2013\Projects\TencentMapBinding\TencentMapBinding\obj\Debug\TencentMapBinding.dll
+c:\users\tangfubing.gdepb\documents\visual studio 2013\Projects\TencentMapBinding\TencentMapBinding\obj\Debug\TencentMapBinding.pdb

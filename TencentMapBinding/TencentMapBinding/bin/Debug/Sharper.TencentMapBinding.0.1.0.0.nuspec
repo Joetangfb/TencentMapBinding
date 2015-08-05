@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Sharper.TencentMapBinding</id>
+        <version>0.1.0.0</version>
+        <title>Tencent Map Binding for Xamarin</title>
+        <authors>JoeTang</authors>
+        <owners>JoeTang</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Tencent Map Binding for Xamarin,include Xamarin.Forms (Droid) and Xamarin.Android.</description>
+    </metadata>
+    <files>
+        <file src="TencentMapBinding.dll" target="TencentMapBinding.dll" />
+    </files>
+</package>
